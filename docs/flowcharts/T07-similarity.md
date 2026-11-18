@@ -14,12 +14,12 @@ START similarity(q, c, reasons)
     SET sim = 0
     SET reasons = empty string
 
-    IF c.category = q.category THEN
+    IF c.category == q.category THEN
         SET sim = sim + 4
         SET reasons = "category +4"
     END IF
 
-    IF c.brand = q.brand THEN
+    IF c.brand == q.brand THEN
         SET sim = sim + 3
         ADD "brand +3" to reasons
     END IF
