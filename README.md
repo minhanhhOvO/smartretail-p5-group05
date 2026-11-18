@@ -15,15 +15,16 @@
 | T10 | Print full table | `printReport()` | Khôi | Anh | yes | # |
 | T11 | Print Top-K | `printTopK()` | Anh | Khôi | yes | # |
 | T12 | Best substitute by store | `printBestSubstitutes()` | Anh | Hùng | yes | # |
-| T13 | Command-line arguments and main flow | `main()`, argument parsing | Đạt | Khôi | yes | # |
+| T13 | Command-line arguments and main flow | `main()` | Đạt | Khôi | yes | # |
 | T14 | (Optional) Export Top-K to CSV | `--export` | Hùng | Anh | yes | # |
 | T15 | Repo skeleton | `.gitignore`, `.github/pull_request_template.md`, `data/` | Hùng | Anh | not needed | #2 |
-| T16 | Task assignment table | `README.md` | Anh | Hùng | not needed | # |
+| T16 | Task assignment table | `README.md` | Anh | Hùng | not needed | #3 |
 | T17 | Test cases table | `tests/test_cases.md` | Khôi | Đạt | not needed | # |
 | T18 | Expected outputs and test script | `tests/expected/`, `tests/run_tests.sh` | Anh | Hùng | not needed | # |
 | T19 | Architecture | `docs/architecture.md` | Hùng | Khôi | not needed | # |
 | T20 | Slides | `docs/slides.pdf` | Đạt | Anh | not needed | # |
-| T21 | Pseudocode of similarity | `docs/flowcharts/T07-similarity.md` | Đạt | Khôi | - | # |
-| T22 | Flowchart of similarity | `docs/flowcharts/T07-similarity.drawio.png` | Khôi | Đạt | - | # |
+| T21 | Pseudocode of similarity | `docs/flowcharts/T07-similarity.md` | Đạt | Khôi | - | #5 |
+| T22 | Flowchart of similarity | `docs/flowcharts/T07-similarity.drawio.png` | Khôi | Đạt | - | #4 |
 | T23 | Setup GitHub repo | GitHub Settings | Anh | - | not needed | - |
 | T24 | Final checklist and tag final | `git tag final` | Anh | - | not needed | - |
+| T25 | Complete README sections & final AI declaration | `README.md` | Anh | Đạt | not needed | — | 
