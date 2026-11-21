@@ -9,7 +9,7 @@
 | T04 | Search functions, find query product, look up stock | `findProduct()`, `stockOf()` | Đạt | Hùng | yes | # |
 | T05 | Sort products by id | `sortProductsById()` | Hùng | Anh | yes | # |
 | T06 | Compare and sort matches | `comesBefore()`, `sortMatches()` | Hùng | Anh | yes | # |
-| T07 | Similarity score and reasons | `similarity()` | Đạt | Khôi | yes | # |
+| T07 | Similarity score and reasons | `similarity()` **(hàm lõi)** | Đạt | Khôi | yes | # |
 | T08 | Stock adjustment and other stores | `availabilityAdjustment()`, `availableElsewhere()` | Anh | Đạt | yes | # |
 | T09 | Filter, score, rank | `rankMatches()` | Khôi | Đạt | yes | # |
 | T10 | Print full table | `printReport()` | Khôi | Anh | yes | # |
@@ -23,8 +23,6 @@
 | T18 | Expected outputs and test script | `tests/expected/`, `tests/run_tests.sh` | Anh | Hùng | not needed | # |
 | T19 | Architecture | `docs/architecture.md` | Hùng | Khôi | not needed | # |
 | T20 | Slides | `docs/slides.pdf` | Đạt | Anh | not needed | # |
-| T21 | Pseudocode of similarity | `docs/flowcharts/T07-similarity.md` | Đạt | Khôi | - | #5 |
-| T22 | Flowchart of similarity | `docs/flowcharts/T07-similarity.drawio.png` | Khôi | Đạt | - | #4 |
-| T23 | Setup GitHub repo | GitHub Settings | Anh | - | not needed | - |
-| T24 | Final checklist and tag final | `git tag final` | Anh | - | not needed | - |
-| T25 | Complete README sections & final AI declaration | `README.md` | Anh | Đạt | not needed | — | 
+| T21 | Setup GitHub repo | GitHub Settings | Anh | - | not needed | - |
+| T22 | Final checklist and tag final | `git tag final` | Anh | - | not needed | - |
+| T23 | Complete README sections & final AI declaration | `README.md` | Anh | Đạt | not needed | - | 
